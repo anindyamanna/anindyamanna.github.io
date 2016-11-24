@@ -1607,7 +1607,6 @@ if (typeof jQuery === 'undefined') {
 
         this.hoverState = null
 
-        return this
     }
 
     Tooltip.prototype.fixTitle = function () {
